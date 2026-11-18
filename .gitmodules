@@ -1,0 +1,6 @@
+[submodule "sbc-capital/code/sbc-capital-site"]
+	path = sbc-capital/code/sbc-capital-site
+	url = https://github.com/luiscabba/sbc-capital-site.git
+[submodule "sbc-capital/code/sbc-portal-preview"]
+	path = sbc-capital/code/sbc-portal-preview
+	url = https://github.com/luiscabba/sbc-portal-preview.git
