@@ -10,7 +10,7 @@ Tick each row when it works for you. Luis grants anything marked "Luis".
 | SBC portal preview repo | github.com/luiscabba/sbc-portal-preview (public) | Luis: same as above | [ ] |
 | This handover repo | github.com/luiscabba/handover | Luis | [ ] |
 | Gusto site source | `gusto-caffe/site/` in this repo | included | [x] |
-| Gusto scroll frame sequences (`seq/hero`, `seq/coffee`, `seq/bar`, 48 webp frames each) | Gusto Site v3 artifact | Luis: export and drop into `gusto-caffe/site/seq/` | [ ] |
+| Gusto scroll frame sequences (`seq/hero`, `seq/coffee`, `seq/bar`, 48 webp frames each) | `gusto-caffe/site/seq/` in this repo | included | [x] |
 | Blender scene files for the Gusto renders | Luis's Mac | Luis | [ ] |
 
 ## Hosting

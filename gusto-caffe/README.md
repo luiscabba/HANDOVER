@@ -19,7 +19,7 @@ Gusto Caffè is a family business (since 2008) in Egypt: a factory and distribut
 `site/` is a single `index.html` plus `img/`. Plain HTML, CSS and JS; no build step.
 
 - Run: `npx serve site`
-- The hero, coffee and bar scenes are canvas frame sequences (Blender renders, 48 webp frames each) scrubbed by scroll, expected at `site/seq/hero/`, `site/seq/coffee/`, `site/seq/bar/` as `f_00.webp` to `f_47.webp`. **These frames are not in this repo yet** (see `ACCESS.md`).
+- The hero, coffee and bar scenes are canvas frame sequences (Blender renders, 48 webp frames each) scrubbed by scroll, in `site/seq/hero/`, `site/seq/coffee/`, `site/seq/bar/` as `f_00.webp` to `f_47.webp`. The Blender scene files that made them are not in this repo yet (see `ACCESS.md`).
 - Fonts load from Google Fonts: Bodoni Moda, Figtree, Noto Naskh Arabic, IBM Plex Sans Arabic.
 - Placeholders are `[bracketed]` in the HTML (client logos, counts, quote, delivery time, map, contact details).
 
